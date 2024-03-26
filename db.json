@@ -190,5 +190,19 @@
     "avatar": "/assets/img/stylish1.png",
     "msg": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
   }
-]
+],
+  "offerAndCode": [
+    {
+    "code": "AMOUROFF5",
+    "description": "Get 5% OFF on selected packs"
+    },
+    {
+      "code": "AMOUROFF2",
+      "description": "Get 2% OFF on face treatment"
+    },
+    {
+      "code": "AMOUROFF10",
+      "description": "Get 10% OFF on premium services"
+    }
+  ]
 }
