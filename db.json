@@ -193,16 +193,31 @@
 ],
   "offerAndCode": [
     {
+    "id": 1,
     "code": "AMOUROFF5",
-    "description": "Get 5% OFF on selected packs"
+    "description": "Get 500 OFF min price 2000",
+    "discountType": "fixed",
+    "discountValue": "500",
+    "minPrice": "2000",
+    "active": "true"
     },
     {
+      "id": 2,
       "code": "AMOUROFF2",
-      "description": "Get 2% OFF on face treatment"
+      "description": "Get 200 OFF min price 1500"
+      "discountType": "fixed",
+      "discountValue": "200",
+      "minPrice": "1500",
+      "active": "true"
     },
     {
+      "id": 3,
       "code": "AMOUROFF10",
-      "description": "Get 10% OFF on premium services Get 10% OFF on premium services Get 10% OFF on premium services" 
+      "description": "Get upto 10% OFF, min price should be 3000",
+      "discountType": "percentage",
+      "discountValue": "10",
+      "minPrice": "3000",
+      "active": "true"
     }
   ],
   "cartItems": [
