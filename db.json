@@ -204,7 +204,7 @@
     {
       "id": 2,
       "code": "AMOUROFF2",
-      "description": "Get 200 OFF min price 1500"
+      "description": "Get 200 OFF min price 1500",
       "discountType": "fixed",
       "discountValue": "200",
       "minPrice": "1500",
