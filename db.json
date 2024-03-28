@@ -218,7 +218,16 @@
       "discountValue": "10",
       "minPrice": "3000",
       "active": "true"
-    },
+    },  
+    {
+      "id": 4,
+      "code": "AMOUROFF5%",
+      "description": "Get upto 15% OFF, min price should be 5000",
+      "discountType": "percentage",
+      "discountValue": "15",
+      "minPrice": "5000",
+      "active": "true"
+    }
   ],
   "cartItems": [
     {
