@@ -212,13 +212,13 @@
     },
     {
       "id": 3,
-      "code": "AMOUROFF10",
+      "code": "AMOUROFF10%",
       "description": "Get upto 10% OFF, min price should be 3000",
       "discountType": "percentage",
       "discountValue": "10",
       "minPrice": "3000",
       "active": "true"
-    }
+    },
     {
       "id": 4,
       "code": "AMOUROFF5%",
