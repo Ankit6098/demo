@@ -254,5 +254,17 @@
       "duration": "60",
       "price": "2000"
     }
+  ],
+  "addresses": [
+    {
+    "id": 1,
+    "address":
+      "1316-A, Maruti Vihar, Maruti Housing Colony, Sector 28, Gurugram, Haryana, Gurgaon, Haryana, India, 122001",
+  },
+  {
+    "id": 2,
+    "address":
+      "1316-A, Maruti Vihar, Maruti Housing Colony, Sector 28, Gurugram, Haryana, Gurgaon, Haryana, India, 122001",
+  },
   ]
 }
