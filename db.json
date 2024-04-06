@@ -1,235 +1,233 @@
 {
-  "stylistArray": [
-  {
-    "id": 1,
-    "img": "/assets/img/stylish1.png",
-    "rank": "#1",
-    "name": "Harshita Malviya",
-    "profession": "Unisex Hair Professional",
-    "default": false
-  },
-  {
-    "id": 2,
-    "img": "/assets/img/stylish2.png",
-    "rank": "#2",
-    "name": "Rajat Sharma",
-    "profession": "Unisex Butt Professional",
-    "default": false
-  },
-  {
-    "id": 3,
-    "img": "/assets/img/stylish3.png",
-    "rank": "#3",
-    "name": "Jay Shah",
-    "profession": "Unisex Hair Professional",
-    "default": true
-  },
-  {
-    "id": 4,
-    "img": "/assets/img/stylish4.png",
-    "rank": "#4",
-    "name": "Puja Tiwari",
-    "profession": "Unisex Hair Professional",
-    "default": false
-  },
-  {
-    "id": 5,
-    "img": "/assets/img/stylish5.png",
-    "rank": "#5",
-    "name": "Harilal Chupke",
-    "profession": "Unisex Hair Professional",
-    "default": false
-  }
-],
-  "swiperImages": [
-  {
-    "img": "/assets/img/clean-up.jpg",
-    "title": "Body Clean Up and Polishing"
-  },
-  {
-    "img": "/assets/img/skin-care.jpg",
-    "title": "Skin Treatments"
-  },
-  {
-    "img": "/assets/img/massage2.jpg",
-    "title": "Massage"
-  },
-  {
-    "img": "/assets/img/manicure-padicure1.jpg",
-    "title": "Menicure and Padicure"
-  },
-  {
-    "img": "/assets/img/premeum-package.jpg",
-    "title": "Amour Premium Packages"
-  }
-],
-  "testimonialArray": [
-  {
-    "id": 1,
-    "name": "Alex Rivera",
-    "email": "@jamietechguru00",
-    "avatar": "/assets/img/stylish1.png",
-    "msg": "As a seasoned designer always on the lookout for innovative tools, Framer.com instantly grabbed my attention."
-  },
-  {
-    "id": 2,
-    "name": "Casey Jordan",
-    "email": "@caseyj",
-    "avatar": "/assets/img/stylish1.png",
-    "msg": "I was amazed at how quickly we were able to integrate this app into our workflow."
-  },
-  {
-    "id": 3,
-    "name": "Jordan Patels",
-    "email": "@jpatelsdesign",
-    "avatar": "/assets/img/stylish1.png",
-    "msg": "Adopting this app for our team has streamlined our project management and improved communication across the board. "
-  },
-  {
-    "id": 4,
-    "name": "Josh Smith",
-    "email": "email@gmail.com",
-    "avatar": "/assets/img/stylish1.png",
-    "msg": "Our team’s productivity has skyrocketed since we started using this tool. "
-  },
-  {
-    "id": 5,
-    "name": "Taylor Kim",
-    "email": "email@gmail.com",
-    "avatar": "/assets/img/stylish1.png",
-    "msg": "Planning and executing events has never been easier. This app helps me keep track of all the moving parts, ensuring nothing slips through the cracks."
-  },
-  {
-    "id": 6,
-    "name": "Sam Dawson",
-    "email": "email@gmail.com",
-    "avatar": "/assets/img/stylish1.png",
-    "msg": "With this app, we can easily assign tasks, track progress, and manage documents all in one place."
-  },
-  {
-    "id": 7,
-    "name": "Morgan Lee",
-    "email": "email@gmail.com",
-    "avatar": "/assets/img/stylish1.png",
-    "msg": "This app has completely transformed how I manage my projects and deadlines."
-  },
-  {
-    "id": 8,
-    "name": "Riley Smith",
-    "email": "email@gmail.com",
-    "avatar": "/assets/img/stylish1.png",
-    "msg": "The customizability and integration capabilities of this app are top-notch."
-  },
-  {
-    "id": 9,
-    "name": "Casey Harper",
-    "email": "email@gmail.com",
-    "avatar": "/assets/img/stylish1.png",
-    "msg": "Its user-friendly interface and robust features support our diverse needs."
-  },
-  {
-    "id": 10,
-    "name": "Alex Rivera",
-    "email": "@jamietechguru00",
-    "avatar": "/assets/img/stylish1.png",
-    "msg": "As a seasoned designer always on the lookout for innovative tools, Framer.com instantly grabbed my attention."
-  },
-  {
-    "id": 11,
-    "name": "Casey Jordan",
-    "email": "@caseyj",
-    "avatar": "/assets/img/stylish1.png",
-    "msg": "I was amazed at how quickly we were able to integrate this app into our workflow."
-  },
-  {
-    "id": 12,
-    "name": "Jordan Patels",
-    "email": "@jpatelsdesign",
-    "avatar": "/assets/img/stylish1.png",
-    "msg": "Adopting this app for our team has streamlined our project management and improved communication across the board. "
-  },
-  {
-    "id": 13,
-    "name": "Josh Smith",
-    "email": "email@gmail.com",
-    "avatar": "/assets/img/stylish1.png",
-    "msg": "Our team’s productivity has skyrocketed since we started using this tool. "
-  },
-  {
-    "id": 14,
-    "name": "Taylor Kim",
-    "email": "email@gmail.com",
-    "avatar": "/assets/img/stylish1.png",
-    "msg": "Planning and executing events has never been easier. This app helps me keep track of all the moving parts, ensuring nothing slips through the cracks."
-  },
-  {
-    "id": 15,
-    "name": "Sam Dawson",
-    "email": "email@gmail.com",
-    "avatar": "/assets/img/stylish1.png",
-    "msg": "With this app, we can easily assign tasks, track progress, and manage documents all in one place."
-  },
-  {
-    "id": 16,
-    "name": "Morgan Lee",
-    "email": "email@gmail.com",
-    "avatar": "/assets/img/stylish1.png",
-    "msg": "This app has completely transformed how I manage my projects and deadlines."
-  },
-  {
-    "id": 17,
-    "name": "Riley Smith",
-    "email": "email@gmail.com",
-    "avatar": "/assets/img/stylish1.png",
-    "msg": "The customizability and integration capabilities of this app are top-notch."
-  },
-  {
-    "id": 18,
-    "name": "Casey Harper",
-    "email": "email@gmail.com",
-    "avatar": "/assets/img/stylish1.png",
-    "msg": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-  }
-],
-  "offerAndCode": [
-    {
-    "id": 1,
-    "code": "AMOUROFF5",
-    "description": "Get 500 OFF min price 2000",
-    "discountType": "fixed",
-    "discountValue": "500",
-    "minPrice": "2000",
-    "active": "true"
-    },
-    {
-      "id": 2,
-      "code": "AMOUROFF2",
-      "description": "Get 200 OFF min price 1500",
-      "discountType": "fixed",
-      "discountValue": "200",
-      "minPrice": "1500",
-      "active": "true"
-    },
-    {
-      "id": 3,
-      "code": "AMOUROFF10%",
-      "description": "Get upto 10% OFF, min price should be 3000",
-      "discountType": "percentage",
-      "discountValue": "10",
-      "minPrice": "3000",
-      "active": "true"
-    },  
-    {
-      "id": 4,
-      "code": "AMOUROFF5%",
-      "description": "Get upto 15% OFF, min price should be 5000",
-      "discountType": "percentage",
-      "discountValue": "15",
-      "minPrice": "5000",
-      "active": "true"
-    }
-  ],
-  "cartItems": [
-    
-  ],
+    "stylistArray": [
+        {
+            "id": 1,
+            "img": "/assets/img/stylish1.png",
+            "rank": "#1",
+            "name": "Harshita Malviya",
+            "profession": "Unisex Hair Professional",
+            "default": false
+        },
+        {
+            "id": 2,
+            "img": "/assets/img/stylish2.png",
+            "rank": "#2",
+            "name": "Rajat Sharma",
+            "profession": "Unisex Butt Professional",
+            "default": false
+        },
+        {
+            "id": 3,
+            "img": "/assets/img/stylish3.png",
+            "rank": "#3",
+            "name": "Jay Shah",
+            "profession": "Unisex Hair Professional",
+            "default": true
+        },
+        {
+            "id": 4,
+            "img": "/assets/img/stylish4.png",
+            "rank": "#4",
+            "name": "Puja Tiwari",
+            "profession": "Unisex Hair Professional",
+            "default": false
+        },
+        {
+            "id": 5,
+            "img": "/assets/img/stylish5.png",
+            "rank": "#5",
+            "name": "Harilal Chupke",
+            "profession": "Unisex Hair Professional",
+            "default": false
+        }
+    ],
+    "swiperImages": [
+        {
+            "img": "/assets/img/clean-up.jpg",
+            "title": "Body Clean Up and Polishing"
+        },
+        {
+            "img": "/assets/img/skin-care.jpg",
+            "title": "Skin Treatments"
+        },
+        {
+            "img": "/assets/img/massage2.jpg",
+            "title": "Massage"
+        },
+        {
+            "img": "/assets/img/manicure-padicure1.jpg",
+            "title": "Menicure and Padicure"
+        },
+        {
+            "img": "/assets/img/premeum-package.jpg",
+            "title": "Amour Premium Packages"
+        }
+    ],
+    "testimonialArray": [
+        {
+            "id": 1,
+            "name": "Alex Rivera",
+            "email": "@jamietechguru00",
+            "avatar": "/assets/img/stylish1.png",
+            "msg": "As a seasoned designer always on the lookout for innovative tools, Framer.com instantly grabbed my attention."
+        },
+        {
+            "id": 2,
+            "name": "Casey Jordan",
+            "email": "@caseyj",
+            "avatar": "/assets/img/stylish1.png",
+            "msg": "I was amazed at how quickly we were able to integrate this app into our workflow."
+        },
+        {
+            "id": 3,
+            "name": "Jordan Patels",
+            "email": "@jpatelsdesign",
+            "avatar": "/assets/img/stylish1.png",
+            "msg": "Adopting this app for our team has streamlined our project management and improved communication across the board. "
+        },
+        {
+            "id": 4,
+            "name": "Josh Smith",
+            "email": "email@gmail.com",
+            "avatar": "/assets/img/stylish1.png",
+            "msg": "Our team’s productivity has skyrocketed since we started using this tool. "
+        },
+        {
+            "id": 5,
+            "name": "Taylor Kim",
+            "email": "email@gmail.com",
+            "avatar": "/assets/img/stylish1.png",
+            "msg": "Planning and executing events has never been easier. This app helps me keep track of all the moving parts, ensuring nothing slips through the cracks."
+        },
+        {
+            "id": 6,
+            "name": "Sam Dawson",
+            "email": "email@gmail.com",
+            "avatar": "/assets/img/stylish1.png",
+            "msg": "With this app, we can easily assign tasks, track progress, and manage documents all in one place."
+        },
+        {
+            "id": 7,
+            "name": "Morgan Lee",
+            "email": "email@gmail.com",
+            "avatar": "/assets/img/stylish1.png",
+            "msg": "This app has completely transformed how I manage my projects and deadlines."
+        },
+        {
+            "id": 8,
+            "name": "Riley Smith",
+            "email": "email@gmail.com",
+            "avatar": "/assets/img/stylish1.png",
+            "msg": "The customizability and integration capabilities of this app are top-notch."
+        },
+        {
+            "id": 9,
+            "name": "Casey Harper",
+            "email": "email@gmail.com",
+            "avatar": "/assets/img/stylish1.png",
+            "msg": "Its user-friendly interface and robust features support our diverse needs."
+        },
+        {
+            "id": 10,
+            "name": "Alex Rivera",
+            "email": "@jamietechguru00",
+            "avatar": "/assets/img/stylish1.png",
+            "msg": "As a seasoned designer always on the lookout for innovative tools, Framer.com instantly grabbed my attention."
+        },
+        {
+            "id": 11,
+            "name": "Casey Jordan",
+            "email": "@caseyj",
+            "avatar": "/assets/img/stylish1.png",
+            "msg": "I was amazed at how quickly we were able to integrate this app into our workflow."
+        },
+        {
+            "id": 12,
+            "name": "Jordan Patels",
+            "email": "@jpatelsdesign",
+            "avatar": "/assets/img/stylish1.png",
+            "msg": "Adopting this app for our team has streamlined our project management and improved communication across the board. "
+        },
+        {
+            "id": 13,
+            "name": "Josh Smith",
+            "email": "email@gmail.com",
+            "avatar": "/assets/img/stylish1.png",
+            "msg": "Our team’s productivity has skyrocketed since we started using this tool. "
+        },
+        {
+            "id": 14,
+            "name": "Taylor Kim",
+            "email": "email@gmail.com",
+            "avatar": "/assets/img/stylish1.png",
+            "msg": "Planning and executing events has never been easier. This app helps me keep track of all the moving parts, ensuring nothing slips through the cracks."
+        },
+        {
+            "id": 15,
+            "name": "Sam Dawson",
+            "email": "email@gmail.com",
+            "avatar": "/assets/img/stylish1.png",
+            "msg": "With this app, we can easily assign tasks, track progress, and manage documents all in one place."
+        },
+        {
+            "id": 16,
+            "name": "Morgan Lee",
+            "email": "email@gmail.com",
+            "avatar": "/assets/img/stylish1.png",
+            "msg": "This app has completely transformed how I manage my projects and deadlines."
+        },
+        {
+            "id": 17,
+            "name": "Riley Smith",
+            "email": "email@gmail.com",
+            "avatar": "/assets/img/stylish1.png",
+            "msg": "The customizability and integration capabilities of this app are top-notch."
+        },
+        {
+            "id": 18,
+            "name": "Casey Harper",
+            "email": "email@gmail.com",
+            "avatar": "/assets/img/stylish1.png",
+            "msg": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+        }
+    ],
+    "offerAndCode": [
+        {
+            "id": 1,
+            "code": "AMOUROFF5",
+            "description": "Get 500 OFF min price 2000",
+            "discountType": "fixed",
+            "discountValue": "500",
+            "minPrice": "2000",
+            "active": "true"
+        },
+        {
+            "id": 2,
+            "code": "AMOUROFF2",
+            "description": "Get 200 OFF min price 1500",
+            "discountType": "fixed",
+            "discountValue": "200",
+            "minPrice": "1500",
+            "active": "true"
+        },
+        {
+            "id": 3,
+            "code": "AMOUROFF10%",
+            "description": "Get upto 10% OFF, min price should be 3000",
+            "discountType": "percentage",
+            "discountValue": "10",
+            "minPrice": "3000",
+            "active": "true"
+        },
+        {
+            "id": 4,
+            "code": "AMOUROFF5%",
+            "description": "Get upto 15% OFF, min price should be 5000",
+            "discountType": "percentage",
+            "discountValue": "15",
+            "minPrice": "5000",
+            "active": "true"
+        }
+    ],
+    "cartItems": []
 }
