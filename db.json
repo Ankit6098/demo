@@ -230,39 +230,6 @@
     }
   ],
   "cartItems": [
-    {
-      "id": 1,
-      "img": "/assets/img/dry-skin.jpg",
-      "name": "Dry Skin Treatment",
-      "rating": "4.1",
-      "duration": "30",
-      "price": "600"
-      },
-      {
-      "id": 2,
-      "img": "/assets/img/oily-skin.jpg",
-      "name": "Oily Skin Treatment",
-      "rating": "4.5",
-      "duration": "30",
-      "price": "1500"
-      },
-      {
-      "id": 3,
-      "img": "/assets/img/skin-lightening.jpg",
-      "name": "Skin Lightening Treatment",
-      "rating": "4.4",
-      "duration": "60",
-      "price": "2000"
-    }
+    
   ],
-  "addresses": [
-  {
-    "id": 1,
-    "address": "1316-A, Maruti Vihar, Maruti Housing Colony, Sector 28, Gurugram, Haryana, Gurgaon, Haryana, India, 122001"
-  },
-  {
-    "id": 2,
-    "address": "1316-A, Maruti Vihar, Maruti Housing Colony, Sector 28, Gurugram, Haryana, Gurgaon, Haryana, India, 122001"
-  }
-]
 }
