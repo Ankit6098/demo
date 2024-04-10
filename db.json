@@ -233,9 +233,9 @@
         {
             "img": "sdkfnfk",
             "name": "skill treatment",
-            "price": 2300,
-            "rating": 4.5,
-            "duration": 60,
+            "price": "2300",
+            "rating": "4.5",
+            "duration": "60"
         }
     ]
 }
