@@ -4,40 +4,40 @@
             "id": 1,
             "img": "/assets/img/stylish1.png",
             "rank": "#1",
-            "name": "Harshita Malviya",
-            "profession": "Unisex Hair Professional",
+            "name": "Ignis",
+            "profession": "Beautician",
             "default": false
         },
         {
             "id": 2,
             "img": "/assets/img/stylish2.png",
             "rank": "#2",
-            "name": "Rajat Sharma",
-            "profession": "Unisex Butt Professional",
+            "name": "Marry",
+            "profession": "Beautician",
             "default": false
         },
         {
             "id": 3,
             "img": "/assets/img/stylish3.png",
             "rank": "#3",
-            "name": "Jay Shah",
-            "profession": "Unisex Hair Professional",
+            "name": "Priya Gupta",
+            "profession": "Admin & Beautician",
             "default": true
         },
         {
             "id": 4,
             "img": "/assets/img/stylish4.png",
             "rank": "#4",
-            "name": "Puja Tiwari",
-            "profession": "Unisex Hair Professional",
+            "name": "Riya",
+            "profession": "Beautician",
             "default": false
         },
         {
             "id": 5,
             "img": "/assets/img/stylish5.png",
             "rank": "#5",
-            "name": "Harilal Chupke",
-            "profession": "Unisex Hair Professional",
+            "name": "Kelly",
+            "profession": "Beautician",
             "default": false
         }
     ],
