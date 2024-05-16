@@ -44,28 +44,28 @@
     "swiperImages": [
         {
             "img": "/assets/img/clean-up.jpg",
-            "title": "Body Clean Up and Polishing"
-            "redirectLink": "/services/66311b561d9f645a755e7ddb"
+            "title": "Body Clean Up and Polishing",
+            "redirectLink": "/services/66311b561d9f645a755e7ddb",
         },
         {
             "img": "/assets/img/skin-care.jpg",
-            "title": "Skin Treatments"
-            "redirectLink": "/services/66308cea1d9f645a755e7cf6"
+            "title": "Skin Treatments",
+            "redirectLink": "/services/66308cea1d9f645a755e7cf6",
         },
         {
             "img": "/assets/img/massage2.jpg",
-            "title": "Massage"
-            "redirectLink": "/services/6632f45a6c9b80f16c660144"
+            "title": "Massage",
+            "redirectLink": "/services/6632f45a6c9b80f16c660144",
         },
         {
             "img": "/assets/img/manicure-padicure1.jpg",
-            "title": "Menicure and Padicure"
-            "redirectLink": "/services/663291ae6c9b80f16c660028"
+            "title": "Menicure and Padicure",
+            "redirectLink": "/services/663291ae6c9b80f16c660028",
         },
         {
             "img": "/assets/img/premeum-package.jpg",
-            "title": "Amour Premium Packages"
-            "redirectLink": "/services/663e06de4b939ea303f3f1c3"
+            "title": "Amour Premium Packages",
+            "redirectLink": "/services/663e06de4b939ea303f3f1c3",
         }
     ],
     "testimonialArray": [
